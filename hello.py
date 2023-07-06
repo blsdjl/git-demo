@@ -1,3 +1,3 @@
-a = 3
-b = 3
+a = "mas"
+b = "ter"
 print(a + b)
