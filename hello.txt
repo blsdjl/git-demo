@@ -1,9 +1,3 @@
-This is a test
-This is a test
-This is a test
-hello Linux
-This is a test
-This is a test
-This is a test
-int main
-version 2.0
+a = 5
+b = 6
+print(a + b)
