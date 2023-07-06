@@ -1,3 +1,3 @@
-a = 3
-b = 3
+a = "test"
+b = "std"
 print(a + b)
