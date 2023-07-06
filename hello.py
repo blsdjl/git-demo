@@ -1,3 +1,5 @@
+
 a = "mas"
-b = "ter"
+
+b = "std"
 print(a + b)
